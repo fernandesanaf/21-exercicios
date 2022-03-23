@@ -1,12 +1,8 @@
 /*
 INSTITUTO FEDERAL DO MATO GROSSO DO SUL
 Tecnologia em Análise e Desenvolvimento de Sistemas
-Ana Flávia de Brito Fernandes    |    Matrícula: 2021206476004-4 
+Ana Flávia de Brito Fernandes
 ana.fernandes8@estudante.ifms.edu.br
-DATA: 15/12/2021
-MATÉRIA: Construção de Algoritmos
-
-18 - faça um algoritmo que leia a,b e c que entregue o valor de x1 e x2 seguindo a equação de  2 grau.
 */
 #include <stdio.h>
 #include <math.h>
